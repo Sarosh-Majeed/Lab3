@@ -11,3 +11,5 @@ This line was added locally for rebase demo.
 
 
 
+This is a test line for amend demo.
+This is another line added after commit.
